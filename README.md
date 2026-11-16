@@ -86,3 +86,10 @@ All project scripts and asset folders are included in this repository. Follow th
 | **Zoom In / Out** | `Mouse Scroll Wheel` (4 zoom tiers) |
 | **Move Token** | `Left-Click` + Drag |
 | **Draw / Fog Tools** | Select from the toolbar menu |
+
+##Disclamer
+| This Program is still a work in progress |
+
+| Features are still coming |
+
+| Suggestions are welcome |
